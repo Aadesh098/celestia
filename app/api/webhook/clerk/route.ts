@@ -68,6 +68,13 @@ export async function POST(req: Request) {
 
     const newUser = await createUser(user);
 
+    if(newUser){
+      console.log("Data Inserted Successfully");
+    }
+
+    console.log(newUser);
+
+
     if(newUser) {
       await clerkClient.users.updateUserMetadata(id, {
         publicMetadata: {
