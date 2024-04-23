@@ -274,3 +274,37 @@ body {
 .react-datepicker__time-list-item--selected {
   background-color: #624cf5 !important;
 }
+
+@keyframes goldenWashOff {
+  0% {
+    color: gold;
+    transform: scale(1);
+    filter: none;
+    opacity: 1;
+  }
+  25% {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(0.9);
+    filter: brightness(1);
+    opacity: 0.6;
+  }
+  75% {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+    opacity: 0.8;
+  }
+  100% {
+    color: inherit;
+    transform: scale(1);
+    filter: none;
+    opacity: 1;
+  }
+}
+
+.sync-highlight {
+  animation: goldenWashOff 5s ease-in-out infinite;
+}

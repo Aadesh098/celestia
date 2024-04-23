@@ -12,7 +12,7 @@ const Header = () => {
         <Link href="/" className="w-36">
           <Image 
             src="/assets/images/logo.svg" width={128} height={38}
-            alt="Celestia logo" 
+            alt="Evently logo" 
           />
         </Link>
 
@@ -24,6 +24,12 @@ const Header = () => {
 
         <div className="flex w-32 justify-end gap-3">
           <SignedIn>
+          <Link href="https://celestia-sync.vercel.app/" className="flex w-32 justify-end gap-3">
+          <Image 
+            src="/assets/icons/video.svg" width={32} height={9}
+            alt="Video" 
+          />
+        </Link>
             <UserButton afterSignOutUrl="/" />
             <MobileNav />
           </SignedIn>
