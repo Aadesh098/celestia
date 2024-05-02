@@ -12,7 +12,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: 'Celestia',
-  description: 'Celestia is a platform for event management.',
+  description: 'Celestia is a platform for Event Management.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
