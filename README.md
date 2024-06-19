@@ -1,7 +1,7 @@
 An Event's Organization and Management Application 
 
 Test Credentials 
-Username - aadesh_001 
+Username - aadesh_001 ,
 Password - usertest@789
 
 ![image](https://github.com/Aadesh098/celestia/assets/48157409/87b44fd0-4dac-4e6c-b88c-ae31663f3df3)
