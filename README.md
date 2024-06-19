@@ -14,4 +14,6 @@ An Event's Organization and Management Application
 
 ![image](https://github.com/Aadesh098/celestia/assets/48157409/0d3e06dc-0e77-44af-b2cf-e573e167e163)
 
+![image](https://github.com/Aadesh098/celestia/assets/48157409/474dddeb-d667-48e3-a9be-db575736abf4)
+
 ![image](https://github.com/Aadesh098/celestia/assets/48157409/7fd9f562-2262-48a2-a4db-49721d480548)
