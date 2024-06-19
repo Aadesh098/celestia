@@ -1,6 +1,6 @@
 An Event's Organization and Management Application 
 
-Test Credentials 
+Test Credentials : 
 Username - aadesh_001 ,
 Password - usertest@789
 
